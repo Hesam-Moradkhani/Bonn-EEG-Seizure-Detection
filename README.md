@@ -1,4 +1,4 @@
-# Bonn-EEG-Seizure-Detection
+# Machine Learning for Bonn EEG Seizure Detection
 This project focuses on the classification of EEG signals for epileptic seizure detection using the Bonn University dataset. The pipeline includes signal preprocessing, feature extraction using Discrete Wavelet Transform (DWT), and classification using traditional machine learning models (SVM and Naive Bayes classifier)   
 
 **Dataset**
